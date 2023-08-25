@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Emmanostrings-Bob/server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/Emmanostrings-Bob/Social_media_frontend.git
